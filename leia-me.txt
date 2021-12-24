@@ -1,0 +1,1 @@
+A simulação da CPU deve ser executada a partir da unidade de processamento
